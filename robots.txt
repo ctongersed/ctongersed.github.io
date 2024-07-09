@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctongersed.github.io/sitemap
+Sitemap: https://ctongersed.github.io/app/sitemap
+Sitemap: https://ctongersed.github.io/assets/sitemap
+Sitemap: https://ctongersed.github.io/css/sitemap
+Sitemap: https://ctongersed.github.io/includes/sitemap
+Sitemap: https://ctongersed.github.io/item/sitemap
+Sitemap: https://ctongersed.github.io/src/sitemap
